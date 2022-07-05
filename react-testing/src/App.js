@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import React, { useState, useEffect } from 'react';
-
+// test change to make sure commit works
 function App() {
   const [color, setColor] = useState("black");
 
